@@ -428,6 +428,7 @@ button {
 @media screen and (max-width: 940px) {
   .story__note__outer {
     width: 100%;
+    transform: translate3d(-200px,0,0);
   }
 }
 
