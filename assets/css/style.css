@@ -475,7 +475,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #fff;
+  background-color: #ffff33;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
