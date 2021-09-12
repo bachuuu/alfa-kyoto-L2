@@ -148,7 +148,7 @@ button {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #000;
   margin-bottom: 20px;
   height: 100%;
 }
@@ -293,7 +293,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #30f119;
+  background-color: #151ab3;
 }
 
 .section-title--story {
